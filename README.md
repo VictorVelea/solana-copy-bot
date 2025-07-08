@@ -49,7 +49,7 @@ Here’s an example of how the bot tracks and mirrors a target trader’s action
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bilal-Hamza-Ali/solana-copy-bot
+   git clone https://github.com/Abraham-007/solana-copy-bot
 
 2. Install Dependency:
    ```bash
