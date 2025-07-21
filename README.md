@@ -70,7 +70,7 @@ The bot comes with a Performance Dashboard to track your trades, profits, and ov
 ### 💬 Get in Touch
 Have any questions or feedback?
 
-- Discord: bilal_hamza_ali
+- Discord: bilal_hamza_ali 
 
 ### 🌈 Disclaimer
 
